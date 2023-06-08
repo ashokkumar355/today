@@ -1,9 +1,1 @@
-this is a filas
-hello ashok
-this is a ashok somepalli
-hello
-hai
-thanku
-master
-je
-sad
+this is a file
